@@ -1,0 +1,21 @@
+{
+  "name": "NFT X PLATINUM",
+  "description": "X-Defence: NFT X PLATINUM, Platinum NFT credit with 0.85% APR everyday.",
+  "image": "ipfs://Qmb8w8WTY75xNKAJaFSAAhUXFckp8oSAbafv2Z5Myfop1y",
+  "external_url": "https://web3.lavenes.com", 
+  "attributes": [
+    {
+      "trait_type": "%DAY", 
+      "value": "0.85%"
+    },
+    {
+      "trait_type": "MAX OUT", 
+      "value": "350%"
+    },
+    {
+      "trait_type": "REWARD LEVEL", 
+      "value": 6,
+      "max_value": 9
+    }
+  ]
+}

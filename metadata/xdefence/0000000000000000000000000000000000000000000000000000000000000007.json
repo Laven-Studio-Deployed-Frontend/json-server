@@ -1,0 +1,21 @@
+{
+  "name": "NFT X BLACK DIAMOND",
+  "description": "X-Defence: NFT X BLACK DIAMOND, Black Diamond NFT credit with 0.95% APR everyday.",
+  "image": "ipfs://Qmcfkyk8tTv122jjC95DoW1MaAagEX33sQHMRWU8DLWUW4",
+  "external_url": "https://web3.lavenes.com", 
+  "attributes": [
+    {
+      "trait_type": "%DAY", 
+      "value": "0.95%"
+    },
+    {
+      "trait_type": "MAX OUT", 
+      "value": "400%"
+    },
+    {
+      "trait_type": "REWARD LEVEL", 
+      "value": 8,
+      "max_value": 9
+    }
+  ]
+}

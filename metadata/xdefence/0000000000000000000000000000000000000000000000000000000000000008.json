@@ -1,0 +1,21 @@
+{
+  "name": "NFT X CROWN DIAMOND",
+  "description": "X-Defence: NFT X CROWN DIAMOND, Crown Diamond NFT credit with 1% APR everyday.",
+  "image": "ipfs://QmPMYsr7vUygt4x8GGFLQmeC8H13tei5VP15vtm6kGfx3g",
+  "external_url": "https://web3.lavenes.com", 
+  "attributes": [
+    {
+      "trait_type": "%DAY", 
+      "value": "1%"
+    },
+    {
+      "trait_type": "MAX OUT", 
+      "value": "400%"
+    },
+    {
+      "trait_type": "REWARD LEVEL", 
+      "value": 9,
+      "max_value": 9
+    }
+  ]
+}
