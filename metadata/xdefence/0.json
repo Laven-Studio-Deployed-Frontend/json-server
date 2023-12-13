@@ -1,0 +1,21 @@
+{
+  "name": "NFT X STANDARD",
+  "description": "X-Defence: NFT X STANDARD, standard NFT credit with 0.6% APR everyday.",
+  "image": "ipfs://Qmc7nyfiomRGsS3DfCPMYWWwwttZqXETTEmD68qJWKmcrX",
+  "external_url": "https://web3.lavenes.com", 
+  "attributes": [
+    {
+      "trait_type": "%DAY", 
+      "value": "0.60%"
+    },
+    {
+      "trait_type": "MAX OUT", 
+      "value": "300%"
+    },
+    {
+      "trait_type": "REWARD LEVEL", 
+      "value": 1,
+      "max_value": 9
+    }
+  ]
+}
